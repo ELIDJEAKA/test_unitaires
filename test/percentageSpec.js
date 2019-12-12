@@ -1,5 +1,5 @@
 var assert = require('assert');
-var Percentage = require('../../lib/Percentage');
+var Percentage = require('../lib/Percentage');
 describe("percentage",()=>{
     describe("#evolution",()=>{
         it('should give an evolution',()=>{
